@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 😎 I'm a maintainer of [Codeforces](https://github.com/sanjaykaswan/Codeforces_codes)
 - ❤  I’m currently learning the Javascript
 - 📫 How to reach me: Email: kaswan.1@iitj.ac.in
 - ⚡ Fun fact: IITian
