@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="c#" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" margin="50px"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="figma" width="40" height="40" margin="50px"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/Origin-Square.aspx?width=198&height=198" alt="origin" width="40" height="40"/>
