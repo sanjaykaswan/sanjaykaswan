@@ -9,6 +9,7 @@
 <img src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/Origin-Square.aspx?width=198&height=198" alt="origin" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="60" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="60" height="40"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg](https://www.svgrepo.com/show/374112/swift.svg)" alt="blender" width="60" height="40"/>
  
 <!--
 Here are some ideas to get you started:
